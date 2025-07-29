@@ -15,7 +15,7 @@ Ethiopia lacks a secure, centralized, and trustworthy platform for citizens to r
 ---
 
 ### 💡 Planned Solution
-Build a **Flutter mobile Website** that allows **Fayda-verified citizens** to:
+Build a **Website** that allows **Fayda-verified citizens** to:
 - Raise petitions about public or private issues
 - Sign petitions securely (one-person-one-signature)
 - Track petition status and government responses
