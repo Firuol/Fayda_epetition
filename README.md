@@ -3,6 +3,7 @@
 ## Contributors:
 - Firaol Tesfaye
 - Ermias Wakgari
+- Murtesa Jabesa
 
 ---
 
@@ -14,7 +15,7 @@ Ethiopia lacks a secure, centralized, and trustworthy platform for citizens to r
 ---
 
 ### 💡 Planned Solution
-Build a **Flutter mobile app** that allows **Fayda-verified citizens** to:
+Build a **Flutter mobile Website** that allows **Fayda-verified citizens** to:
 - Raise petitions about public or private issues
 - Sign petitions securely (one-person-one-signature)
 - Track petition status and government responses
@@ -102,7 +103,7 @@ Build a **Flutter mobile app** that allows **Fayda-verified citizens** to:
 
 | Layer | Technology |
 |-------|------------|
-| **Frontend** | Flutter |
+| **Frontend** | React |
 | **Backend** | Node.js (Express) |
 | **Authentication** | VeriFayda OIDC + Firebase Auth |
 | **Database** | Firebase Firestore |
