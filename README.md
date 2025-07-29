@@ -2,7 +2,7 @@
 
 ## Contributors:
 - Firaol Tesfaye
-- two group member added soon
+- Ermias Wakgari
 
 ---
 
